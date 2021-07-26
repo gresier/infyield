@@ -12,7 +12,7 @@ if not game:IsLoaded() then
 	notLoaded:Destroy()
 end
 
-ver = '5.2'
+ver = 'gresier1'
 
 Players = game:GetService("Players")
 
